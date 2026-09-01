@@ -9,4 +9,4 @@ My collection of profile pictures, the most are from pinterest
 
 **made with love, for others**
 
-[support](https://discord.gg/zkuxzkaje) 🤍
+[support](https://discord.gg/zkuxzkaje) >💙<
