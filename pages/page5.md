@@ -5,4 +5,4 @@
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pfp's/pfp.5.5.jpg" />
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pfp's/pfp.5.6.jpg" />
 
-[<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page4.md)
+[<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page4.md) [-->](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page6.md)
