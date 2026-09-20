@@ -23,6 +23,10 @@ All the pfp-pages are here...
 
 # -------------------------------------------------
 
-**.---** page **[`6`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page6.md)** ***new!!***
+**.---** page **[`6`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page6.md)**
 
-*new pages will maybe come soon*
+# -------------------------------------------------
+
+**.---** page **[`7`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page7.md)** ***new!!***
+
+*new pages will maybe come soon!*
