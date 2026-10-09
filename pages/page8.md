@@ -5,4 +5,4 @@
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/pfp's/pfp.8.5.jpg" />
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/pfp's/pfp.8.6.jpg" />
 
-[<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page7.md) | [nav](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md) [-->](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page9.md)
+[<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page7.md) | [nav](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md) | [-->](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page9.md)
