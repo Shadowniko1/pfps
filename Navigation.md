@@ -15,3 +15,5 @@
 **Page** **[`7`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page7.md)** ---|--- **Page** **[`8`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page8.md)**
 
 **Page** **[`9`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page9.md)** ---|---
+
+<img size=4096 alt="image" src="https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection%202/Anime%20image%20(22).jpg" />
