@@ -14,6 +14,4 @@
 
 **Page** **[`7`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page7.md)** ---|--- **Page** **[`8`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page8.md)**
 
-## -------------
-
 **Page** **[`9`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page9.md)** ---|---
