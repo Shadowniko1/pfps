@@ -20,4 +20,4 @@
 
 **Page** **[`10`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page10.md)** ---|---
 
-<img size=4096 alt="image" src="https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection%202/Anime%20image%20(22).jpg" />
+[<img size=4096 alt="image" src="https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection%202/Anime%20image%20(22).jpg" />](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page10.md)
