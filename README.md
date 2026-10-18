@@ -10,3 +10,4 @@ My collection of profile pictures, the most are from pinterest
 **made with **love**, for others..**
 
 ## support [me](https://discord.gg/P3pjc44mT) 
+***just click on the "me"***
