@@ -1,4 +1,6 @@
 ## **page 10**
+> [<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page9.md) | [nav](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md) | [-->](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page11.md)
+#
 wait... WHAT??? LIGHT PFPS???!!
 
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/pfp's/pfp.10.1.jpg" />
