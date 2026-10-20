@@ -1,5 +1,5 @@
 ## **pqge 7**
-> [<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page6.md) | [-->](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page8.md)
+> [<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page6.md) | [Navigation](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/Navigation.md) | [-->](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page8.md)
 #
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pfp's/pfp.7.1.jpg" />
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pfp's/pfp.7.2.jpg" />
