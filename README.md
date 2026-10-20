@@ -14,7 +14,8 @@ My collection of profile pictures, the most are from pinterest
 
 ## [support me](https://discord.gg/P3pjc44mT) 
 ***just click***
-###  
+
+###  details
  <details>
 <summary>Pictures in reamde+navigation</summary></summary>
 <table>
