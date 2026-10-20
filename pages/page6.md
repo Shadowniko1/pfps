@@ -1,4 +1,6 @@
 ## **page6**
+> [<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page5.md) | [nav](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/Navigation.md) | [-->](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page7.md)
+#
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pfp's/pfp.6.1.jpg" />
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pfp's/pfp.6.2.jpg" />
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pfp's/pfp.6.3.jpg" />
