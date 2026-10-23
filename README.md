@@ -20,7 +20,7 @@ My collection of profile pictures, the most are from pinterest
 <summary>Pictures in reamde+navigation</summary></summary>
 <table>
 	<tr>
-are taken by [firefly](https://github.com/Firefly-SL) (from wal-collection)
+are taken by firefly (https://github.com/Firefly-SL) (from wal-collection)
   </tr>
 </table>
 </details>
