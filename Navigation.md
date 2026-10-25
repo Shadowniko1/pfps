@@ -1,4 +1,4 @@
-# Navigation
+# Pages
 
 **Page** **[`1`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page1.md)**  ---|--- **Page** **[`2`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page2.md)**
 
