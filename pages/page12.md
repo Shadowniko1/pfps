@@ -1,5 +1,5 @@
 ## **page 12**
-> [<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page11.md) | [nav](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md) |
+> [<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page11.md) | [nav](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md) | [-->](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page13.md)
 #
 
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/pfp's/pfp.12.1.jpg" />
@@ -12,4 +12,4 @@
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/pfp's/pfp.12.8.jpg" />
 
 
-[<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page11.md) | [nav](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md) |
+[<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page11.md) | [nav](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md) | [-->](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page13.md)
