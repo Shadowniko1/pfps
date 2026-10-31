@@ -8,7 +8,7 @@ My collection of profile pictures, the most are from pinterest
 
 > pfps count: `82`
 # 
-[<img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/storage/banner.jpg" />](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md)
+[<img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/storage/fireplace.jpg" />](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md)
 
 **made with **love**, for others..**
 
