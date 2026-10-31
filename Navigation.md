@@ -16,4 +16,7 @@
 
 **Page** **[`11`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page11.md)** ---|--- **Page** **[`12`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page12.md)** 
 
+
+**Page** **[`13`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page13.md)** ---|---
+
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/storage/fireplace.jpg" />
