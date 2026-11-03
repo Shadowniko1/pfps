@@ -13,7 +13,6 @@
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/pfp's/pfp.13.9.jpg" />
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/pfp's/pfp.13.10.jpg" />
 <img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/pfp's/pfp.13.11.jpg" />
-<img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/pfp's/pfp.13.12.jpg" />
 
 
 [<--](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page12.md) | [nav](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md) |
