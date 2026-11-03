@@ -13,4 +13,4 @@ My collection of profile pictures, the most are from pinterest
 **made with **love**, for others..**
 
 ## Socials 
-**[discord](https://discord.gg/htvkytAzGU)** | **[guns.lol](https://guns.lol/shadow.dead)**
+**[`discord`](https://discord.gg/htvkytAzGU)** | **[`guns.lol`](https://guns.lol/shadow.dead)**
