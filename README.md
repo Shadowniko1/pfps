@@ -2,11 +2,11 @@
 My collection of profile pictures, the most are from pinterest
 
 # Navigation
-> pages count: `12`
+> pages count: `13`
  
 > -- **|✿[see the pages](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/Navigation.md)✿|** --
 
-> pfps count: `82`
+> pfps count: `93`
 # 
 [<img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/storage/fireplace.jpg" />](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md)
 
