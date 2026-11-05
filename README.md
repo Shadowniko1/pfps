@@ -1,16 +1,25 @@
-# Welcome home, pfp searchers
-My collection of profile pictures, the most are from pinterest
+<div align="center">
+  <a href="https://github.com/Shadowniko1/pfps/blob/main/storage/preview.png">
+    <img src="https://github.com/Shadowniko1/pfps/blob/main/storage/preview.png" width="100%" alt="pfps preview">
+  </a>
+</div>
 
-# Navigation
+<h1 align="center">Pfps</h1>
+
+<p align="center">
+  My personal collection of pfps
+</p>
+
+
+##  Navigation
 > pages count: `13`
  
 > -- **|✿[see the pages](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/Navigation.md)✿|** --
 
 > pfps count: `93`
 # 
-[<img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/storage/fireplace.jpg" />](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md)
 
-**made with **love**, for others..**
+> made with *love*, for others🖤
 
 ## Socials 
 **[`discord`](https://discord.gg/htvkytAzGU)** | **[`guns.lol`](https://guns.lol/shadow.dead)**
