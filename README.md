@@ -14,12 +14,12 @@
 ##  Navigation
 > pages count: `13`
  
-> -- **|✿[see the pages](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/Navigation.md)✿|** --
+> [<img src="https://github.com/Shadowniko1/pfps/blob/main/storage/pages-image.png" width="14%" alt="pages">](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md)
 
 > pfps count: `93`
 # 
 
-> made with *love*, for others🖤
+> **made with** *love*, **for others🖤**
 
-## Socials 
-**[`discord`](https://discord.gg/htvkytAzGU)** | **[`guns.lol`](https://guns.lol/shadow.dead)**
+### Socials 
+*[`discord`](https://discord.gg/htvkytAzGU)* | *[`guns.lol`](https://guns.lol/shadow.dead)*
