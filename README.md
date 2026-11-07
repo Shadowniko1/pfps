@@ -12,11 +12,11 @@
 
 
 ##  Navigation
-> pages count: `13`
+> pages count: `14`
  
 > [<img src="https://github.com/Shadowniko1/pfps/blob/main/storage/pages-image.png" width="14%" alt="pages">](https://github.com/Shadowniko1/pfps/blob/main/Navigation.md)
 
-> pfps count: `93`
+> pfps count: `103`
 # 
 
 > **made with** *love*, **for others🖤**
