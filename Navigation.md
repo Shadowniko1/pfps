@@ -19,4 +19,4 @@
 
 *Page [`13`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page13.md)* ---|--- *Page [`14`](https://github.com/Shadowniko1/Home-of-pfp-s/blob/main/pages/page14.md)*
 
-<img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/storage/preview.png" />
+[<img size=4096 alt="image" src="https://github.com/Shadowniko1/pfps/blob/main/storage/preview.png" />](https://github.com/Shadowniko1/pfps)
