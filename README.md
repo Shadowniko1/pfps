@@ -19,7 +19,7 @@
 > pfps count: `103`
 # 
 
-> **made with** *love*, **for others🖤**
+> **made with love, for others🖤**
 
 ### Socials 
 *[`discord`](https://discord.gg/htvkytAzGU)* | *[`guns.lol`](https://guns.lol/shadow.dead)*
