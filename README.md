@@ -7,7 +7,7 @@
 <h1 align="center">Pfps</h1>
 
 <p align="center">
-  My personal collection of pfps
+  My personal collection of pfps, the most are from pinterest
 </p>
 
 
@@ -20,4 +20,4 @@
 > **made with love, for others🖤**
 
 ### Socials 
-*[`discord`](https://discord.gg/htvkytAzGU)* | *[`guns.lol`](https://guns.lol/shadow.dead)*
+*[`discord`](https://discord.gg/htvkytAzGU)* | *[`kille.rs`](https://kille.rs/_)*
