@@ -71,4 +71,4 @@
 > **made with love, for others🖤**
 
 ### Socials 
-*[`discord`](https://discord.gg/htvkytAzGU)* | *[`kille.rs`](https://kille.rs/_)*
+*[`discord`](https://discord.gg/shadowarmy)* | *[`hoodrich`](https://hoodri.ch/_)*
