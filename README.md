@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Shadowniko1/pfps/blob/main/storage/preview.png">
+  <a href="pfps preview banner">
     <img src="https://github.com/Shadowniko1/pfps/blob/main/storage/preview.png" width="100%" alt="pfps preview">
   </a>
 </div>
