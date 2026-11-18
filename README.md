@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="pfps preview banner">
-    <img src="https://github.com/Shadowniko1/pfps/blob/main/storage/preview-banner.png" width="100%" alt="pfps preview">
+  <a href="pfps preview">
+    <img src="https://github.com/Shadowniko1/pfps/blob/main/storage/pfps-preview.png" width="100%" alt="pfps preview">
   </a>
 </div>
 
